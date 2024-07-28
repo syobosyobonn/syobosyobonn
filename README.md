@@ -19,5 +19,5 @@ TeamZistyに所属している、ポンコt(ｹﾞﾎﾝｹﾞﾎﾝ)未熟な
 
 ## 📋 | Links!
 
-<a href="syobosyobonn.github.io"><img alt="Static Badge" src="https://img.shields.io/badge/My_Page-Click_here!-green"></a>
-<a href="x.com/@Syobosyobonn"><img alt="Static Badge" src="https://img.shields.io/badge/My_Twitter-Click_here!-blue"></a>
+<a href="https://syobosyobonn.github.io"><img alt="Static Badge" src="https://img.shields.io/badge/My_Page-Click_here!-green"></a>
+<a href="https://x.com/@Syobosyobonn"><img alt="Static Badge" src="https://img.shields.io/badge/My_Twitter-Click_here!-blue"></a>
