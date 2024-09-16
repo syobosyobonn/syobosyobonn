@@ -17,6 +17,8 @@ TeamZistyに所属している、ポンコt(ｹﾞﾎﾝｹﾞﾎﾝ)未熟な
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syobosyobonn&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/mo-ri-regen/github-readme-stats)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1127851597599363103)](https://discord.com/users/1127851597599363103)
+
 ## 📋 | Links!
 
 <a href="https://syobosyobonn.github.io"><img alt="Static Badge" src="https://img.shields.io/badge/My_Page-Click_here!-green"></a>
